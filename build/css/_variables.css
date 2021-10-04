@@ -1,4 +1,7 @@
 :root {
+  --sizes-40: 40;
+  --sizes-60: 60;
+  --sizes-80: 80;
   --sizes-plain-token: 200;
   --sizes-token-in-frame: 200;
   --sizes-token-in-group: 200;

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 04 Oct 2021 17:07:54 GMT
+// Generated on Mon, 04 Oct 2021 17:47:33 GMT
 
 
 import UIKit
@@ -14,6 +14,7 @@ public class StyleDictionary {
     public static let colorDarkBackground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorLightBackground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorPrimary = UIColor(red: 0.988, green: 0.812, blue: 0.173, alpha: 1)
+    public static let colorSuccess = UIColor(red: 0.000, green: 1.000, blue: 0.278, alpha: 1)
     public static let colorWarning = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let effectDropShadowSingle = [object Object]

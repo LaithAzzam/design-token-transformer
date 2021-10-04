@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 04 Oct 2021 21:04:21 GMT
+// Generated on Mon, 04 Oct 2021 21:08:42 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -15,6 +15,7 @@ ColorAccent,
 ColorWhite,
 ColorWarning,
 ColorSuccess,
+ColorInfo,
 ColorLightBackground,
 ColorDarkBackground
 };

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 04 Oct 2021 21:04:21 GMT
+// Generated on Mon, 04 Oct 2021 21:08:42 GMT
 
 
 import UIKit
@@ -12,6 +12,7 @@ import UIKit
 public class StyleDictionary {
     public static let colorAccent = UIColor(red: 0.016, green: 0.290, blue: 1.000, alpha: 1)
     public static let colorDarkBackground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorInfo = UIColor(red: 0.000, green: 0.400, blue: 1.000, alpha: 1)
     public static let colorLightBackground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorPrimary = UIColor(red: 0.988, green: 0.812, blue: 0.173, alpha: 1)
     public static let colorSuccess = UIColor(red: 0.000, green: 1.000, blue: 0.278, alpha: 1)

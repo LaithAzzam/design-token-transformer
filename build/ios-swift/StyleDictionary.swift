@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 04 Oct 2021 09:23:59 GMT
+// Generated on Mon, 04 Oct 2021 09:26:18 GMT
 
 
 import UIKit
@@ -37,4 +37,10 @@ public class StyleDictionary {
     public static let radiiMixed = [object Object]
     public static let radiiSmoothing = [object Object]
     public static let radius5 = [object Object]
+    public static let sizesInVariant120 = 120
+    public static let sizesInVariant60 = 60
+    public static let sizesInVariant90 = 90
+    public static let sizesPlainToken = 200
+    public static let sizesTokenInFrame = 200
+    public static let sizesTokenInGroup = 200
 }

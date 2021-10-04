@@ -1,4 +1,10 @@
 {
+  "SizesPlainToken": 200,
+  "SizesTokenInFrame": 200,
+  "SizesTokenInGroup": 200,
+  "SizesInVariant60": 60,
+  "SizesInVariant90": 90,
+  "SizesInVariant120": 120,
   "Radius5": {"smoothing":0,"topLeft":5,"topRight":5,"bottomLeft":5,"bottomRight":5},
   "RadiiSmoothing": {"smoothing":0.75,"topLeft":10,"topRight":10,"bottomLeft":10,"bottomRight":10},
   "RadiiMixed": {"smoothing":0,"topLeft":5.5,"topRight":10,"bottomLeft":20,"bottomRight":15},

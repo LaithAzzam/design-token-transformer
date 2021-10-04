@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 02 Oct 2021 06:13:32 GMT
+// Generated on Mon, 04 Oct 2021 07:50:30 GMT
 
 
 #import "StyleDictionaryColor.h"
@@ -24,7 +24,6 @@
 rgba(0, 0, 0, 1),
 rgba(0, 0, 0, 1),
 rgba(4, 74, 255, 1),
-rgba(255, 230, 0, 1),
 rgba(255, 184, 0, 1),
 rgba(255, 138, 0, 1),
 rgba(255, 46, 0, 1),

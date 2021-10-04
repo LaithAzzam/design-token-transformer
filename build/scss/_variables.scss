@@ -1,8 +1,7 @@
 
 // Do not edit directly
-// Generated on Sat, 02 Oct 2021 06:13:32 GMT
+// Generated on Mon, 04 Oct 2021 07:50:30 GMT
 
-$sizes-32: 32.72px; // 32.72px spacer component
 $sizes-40: 40px;
 $sizes-60: 60px;
 $sizes-80: 80px;
@@ -12,9 +11,6 @@ $sizes-token-in-group: 200px;
 $sizes-in-variant-60: 60px;
 $sizes-in-variant-90: 90px;
 $sizes-in-variant-120: 120px;
-$sizes-frame: 32px;
-$sizes-rect: 32px;
-$sizes-shape-in-component: 32px; // Should use 32px not 20 from inside shape
 $breakpoints-lg: 1280px;
 $breakpoints-sm: 768px;
 $breakpoints-md: 1024px;
@@ -51,13 +47,6 @@ $borders-single-style-stroke-join: miter;
 $borders-single-style-stroke-miter-limit: 4;
 $borders-single-style-stroke-weight: 5px;
 $borders-single-style-stroke: rgba(4, 74, 255, 1);
-$borders-unsupported-multiple-borders-stroke-align: inside;
-$borders-unsupported-multiple-borders-dash-pattern: 5, 10;
-$borders-unsupported-multiple-borders-stroke-cap: none;
-$borders-unsupported-multiple-borders-stroke-join: miter;
-$borders-unsupported-multiple-borders-stroke-miter-limit: 4;
-$borders-unsupported-multiple-borders-stroke-weight: 5px;
-$borders-unsupported-multiple-borders-stroke: rgba(255, 230, 0, 1);
 $radius-5-radius-type: single;
 $radius-5-radii-top-left: 5px;
 $radius-5-radii-top-right: 5px;
@@ -78,36 +67,6 @@ $radii-mixed-radii-top-right: 10px;
 $radii-mixed-radii-bottom-right: 15px;
 $radii-mixed-radii-bottom-left: 20px;
 $radii-mixed-smoothing: 0;
-$motion-move-in-type: move_in;
-$motion-move-in-duration: 0.5;
-$motion-move-in-direction: left;
-$motion-move-in-easing: ease-in;
-$motion-move-in-easing-function-x1: 0.41999998688697815;
-$motion-move-in-easing-function-x2: 1;
-$motion-move-in-easing-function-y1: 0;
-$motion-move-in-easing-function-y2: 1;
-$motion-dissolve-type: dissolve;
-$motion-dissolve-duration: 0.45;
-$motion-dissolve-easing: cubic-bezier;
-$motion-dissolve-easing-function-x1: 0.6968395709991455;
-$motion-dissolve-easing-function-x2: 0.06683959811925888;
-$motion-dissolve-easing-function-y1: 0.052326660603284836;
-$motion-dissolve-easing-function-y2: 0.9323266744613647;
-$motion-smart-type: smart_animate;
-$motion-smart-duration: 0.5;
-$motion-smart-easing: linear;
-$motion-smart-easing-function-x1: 0;
-$motion-smart-easing-function-x2: 1;
-$motion-smart-easing-function-y1: 0;
-$motion-smart-easing-function-y2: 1;
-$motion-push-type: push;
-$motion-push-duration: 0.5;
-$motion-push-direction: left;
-$motion-push-easing: ease-in-back;
-$motion-push-easing-function-x1: 0.30000001192092896;
-$motion-push-easing-function-x2: 0.699999988079071;
-$motion-push-easing-function-y1: -0.05000000074505806;
-$motion-push-easing-function-y2: -0.5;
 $gradient-gradient-single-with-multiple-color-stops-gradient-type: radial;
 $gradient-gradient-single-with-multiple-color-stops-rotation: 180;
 $gradient-gradient-single-with-multiple-color-stops-stops-0-position: 0;

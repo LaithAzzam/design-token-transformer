@@ -3,13 +3,12 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 02 Oct 2021 06:13:32 GMT
+// Generated on Mon, 04 Oct 2021 07:50:30 GMT
 
 
 #import <Foundation/Foundation.h>
 
 
-extern float const Sizes32;
 extern float const Sizes40;
 extern float const Sizes60;
 extern float const Sizes80;
@@ -19,9 +18,6 @@ extern float const SizesTokenInGroup;
 extern float const SizesInVariant60;
 extern float const SizesInVariant90;
 extern float const SizesInVariant120;
-extern float const SizesFrame;
-extern float const SizesRect;
-extern float const SizesShapeInComponent;
 extern float const BreakpointsLg;
 extern float const BreakpointsSm;
 extern float const BreakpointsMd;
@@ -43,8 +39,6 @@ extern float const BordersDashedOutsideStrokeMiterLimit;
 extern float const BordersDashedOutsideStrokeWeight;
 extern float const BordersSingleStyleStrokeMiterLimit;
 extern float const BordersSingleStyleStrokeWeight;
-extern float const BordersUnsupportedMultipleBordersStrokeMiterLimit;
-extern float const BordersUnsupportedMultipleBordersStrokeWeight;
 extern float const Radius5RadiiTopLeft;
 extern float const Radius5RadiiTopRight;
 extern float const Radius5RadiiBottomRight;
@@ -62,26 +56,6 @@ extern float const RadiiMixedRadiiTopRight;
 extern float const RadiiMixedRadiiBottomRight;
 extern float const RadiiMixedRadiiBottomLeft;
 extern float const RadiiMixedSmoothing;
-extern float const MotionMoveInDuration;
-extern float const MotionMoveInEasingFunctionX1;
-extern float const MotionMoveInEasingFunctionX2;
-extern float const MotionMoveInEasingFunctionY1;
-extern float const MotionMoveInEasingFunctionY2;
-extern float const MotionDissolveDuration;
-extern float const MotionDissolveEasingFunctionX1;
-extern float const MotionDissolveEasingFunctionX2;
-extern float const MotionDissolveEasingFunctionY1;
-extern float const MotionDissolveEasingFunctionY2;
-extern float const MotionSmartDuration;
-extern float const MotionSmartEasingFunctionX1;
-extern float const MotionSmartEasingFunctionX2;
-extern float const MotionSmartEasingFunctionY1;
-extern float const MotionSmartEasingFunctionY2;
-extern float const MotionPushDuration;
-extern float const MotionPushEasingFunctionX1;
-extern float const MotionPushEasingFunctionX2;
-extern float const MotionPushEasingFunctionY1;
-extern float const MotionPushEasingFunctionY2;
 extern float const GradientGradientSingleWithMultipleColorStopsRotation;
 extern float const GradientGradientSingleWithMultipleColorStopsStops0Position;
 extern float const GradientGradientSingleWithMultipleColorStopsStops1Position;

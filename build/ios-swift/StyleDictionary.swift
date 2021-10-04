@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 02 Oct 2021 06:13:32 GMT
+// Generated on Mon, 04 Oct 2021 07:50:30 GMT
 
 
 import UIKit
@@ -31,13 +31,6 @@ public class StyleDictionary {
     public static let bordersSingleStyleStrokeJoin = miter
     public static let bordersSingleStyleStrokeMiterLimit = 4
     public static let bordersSingleStyleStrokeWeight = 5
-    public static let bordersUnsupportedMultipleBordersDashPattern = 5, 10
-    public static let bordersUnsupportedMultipleBordersStroke = rgba(255, 230, 0, 1)
-    public static let bordersUnsupportedMultipleBordersStrokeAlign = inside
-    public static let bordersUnsupportedMultipleBordersStrokeCap = none
-    public static let bordersUnsupportedMultipleBordersStrokeJoin = miter
-    public static let bordersUnsupportedMultipleBordersStrokeMiterLimit = 4
-    public static let bordersUnsupportedMultipleBordersStrokeWeight = 5
     public static let breakpointsLg = 1280
     public static let breakpointsMd = 1024
     public static let breakpointsSm = 768
@@ -233,36 +226,6 @@ public class StyleDictionary {
     public static let gridSingleGutterSize = 20
     public static let gridSinglePattern = columns
     public static let gridSingleSectionSize = 11
-    public static let motionDissolveDuration = 0.45
-    public static let motionDissolveEasing = cubic-bezier
-    public static let motionDissolveEasingFunctionX1 = 0.6968395709991455
-    public static let motionDissolveEasingFunctionX2 = 0.06683959811925888
-    public static let motionDissolveEasingFunctionY1 = 0.052326660603284836
-    public static let motionDissolveEasingFunctionY2 = 0.9323266744613647
-    public static let motionDissolveType = dissolve
-    public static let motionMoveInDirection = left
-    public static let motionMoveInDuration = 0.5
-    public static let motionMoveInEasing = ease-in
-    public static let motionMoveInEasingFunctionX1 = 0.41999998688697815
-    public static let motionMoveInEasingFunctionX2 = 1
-    public static let motionMoveInEasingFunctionY1 = 0
-    public static let motionMoveInEasingFunctionY2 = 1
-    public static let motionMoveInType = move_in
-    public static let motionPushDirection = left
-    public static let motionPushDuration = 0.5
-    public static let motionPushEasing = ease-in-back
-    public static let motionPushEasingFunctionX1 = 0.30000001192092896
-    public static let motionPushEasingFunctionX2 = 0.699999988079071
-    public static let motionPushEasingFunctionY1 = -0.05000000074505806
-    public static let motionPushEasingFunctionY2 = -0.5
-    public static let motionPushType = push
-    public static let motionSmartDuration = 0.5
-    public static let motionSmartEasing = linear
-    public static let motionSmartEasingFunctionX1 = 0
-    public static let motionSmartEasingFunctionX2 = 1
-    public static let motionSmartEasingFunctionY1 = 0
-    public static let motionSmartEasingFunctionY2 = 1
-    public static let motionSmartType = smart_animate
     public static let radiiMixedRadiiBottomLeft = 20
     public static let radiiMixedRadiiBottomRight = 15
     public static let radiiMixedRadiiTopLeft = 5.5
@@ -283,17 +246,13 @@ public class StyleDictionary {
     public static let radius5Radius = 5
     public static let radius5RadiusType = single
     public static let radius5Smoothing = 0
-    public static let sizes32 = 32.72 /* 32.72px spacer component */
     public static let sizes40 = 40
     public static let sizes60 = 60
     public static let sizes80 = 80
-    public static let sizesFrame = 32
     public static let sizesInVariant120 = 120
     public static let sizesInVariant60 = 60
     public static let sizesInVariant90 = 90
     public static let sizesPlainToken = 200
-    public static let sizesRect = 32
-    public static let sizesShapeInComponent = 32 /* Should use 32px not 20 from inside shape */
     public static let sizesTokenInFrame = 200
     public static let sizesTokenInGroup = 200
     public static let spacing10Bottom = 10

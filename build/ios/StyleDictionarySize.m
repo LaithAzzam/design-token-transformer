@@ -4,13 +4,12 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 02 Oct 2021 06:13:32 GMT
+// Generated on Mon, 04 Oct 2021 07:50:30 GMT
 
 
 #import "StyleDictionarySize.h"
 
 
-float const Sizes32 = 32.72;
 float const Sizes40 = 40;
 float const Sizes60 = 60;
 float const Sizes80 = 80;
@@ -20,9 +19,6 @@ float const SizesTokenInGroup = 200;
 float const SizesInVariant60 = 60;
 float const SizesInVariant90 = 90;
 float const SizesInVariant120 = 120;
-float const SizesFrame = 32;
-float const SizesRect = 32;
-float const SizesShapeInComponent = 32;
 float const BreakpointsLg = 1280;
 float const BreakpointsSm = 768;
 float const BreakpointsMd = 1024;
@@ -44,8 +40,6 @@ float const BordersDashedOutsideStrokeMiterLimit = 4;
 float const BordersDashedOutsideStrokeWeight = 5;
 float const BordersSingleStyleStrokeMiterLimit = 4;
 float const BordersSingleStyleStrokeWeight = 5;
-float const BordersUnsupportedMultipleBordersStrokeMiterLimit = 4;
-float const BordersUnsupportedMultipleBordersStrokeWeight = 5;
 float const Radius5RadiiTopLeft = 5;
 float const Radius5RadiiTopRight = 5;
 float const Radius5RadiiBottomRight = 5;
@@ -63,26 +57,6 @@ float const RadiiMixedRadiiTopRight = 10;
 float const RadiiMixedRadiiBottomRight = 15;
 float const RadiiMixedRadiiBottomLeft = 20;
 float const RadiiMixedSmoothing = 0;
-float const MotionMoveInDuration = 0.5;
-float const MotionMoveInEasingFunctionX1 = 0.41999998688697815;
-float const MotionMoveInEasingFunctionX2 = 1;
-float const MotionMoveInEasingFunctionY1 = 0;
-float const MotionMoveInEasingFunctionY2 = 1;
-float const MotionDissolveDuration = 0.45;
-float const MotionDissolveEasingFunctionX1 = 0.6968395709991455;
-float const MotionDissolveEasingFunctionX2 = 0.06683959811925888;
-float const MotionDissolveEasingFunctionY1 = 0.052326660603284836;
-float const MotionDissolveEasingFunctionY2 = 0.9323266744613647;
-float const MotionSmartDuration = 0.5;
-float const MotionSmartEasingFunctionX1 = 0;
-float const MotionSmartEasingFunctionX2 = 1;
-float const MotionSmartEasingFunctionY1 = 0;
-float const MotionSmartEasingFunctionY2 = 1;
-float const MotionPushDuration = 0.5;
-float const MotionPushEasingFunctionX1 = 0.30000001192092896;
-float const MotionPushEasingFunctionX2 = 0.699999988079071;
-float const MotionPushEasingFunctionY1 = -0.05000000074505806;
-float const MotionPushEasingFunctionY2 = -0.5;
 float const GradientGradientSingleWithMultipleColorStopsRotation = 180;
 float const GradientGradientSingleWithMultipleColorStopsStops0Position = 0;
 float const GradientGradientSingleWithMultipleColorStopsStops1Position = 0.34;

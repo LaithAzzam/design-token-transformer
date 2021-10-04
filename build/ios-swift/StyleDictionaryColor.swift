@@ -4,13 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 04 Oct 2021 09:32:09 GMT
+// Generated on Mon, 04 Oct 2021 16:54:59 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryColor {
-    public static let blue = UIColor(red: 0.016, green: 0.290, blue: 1.000, alpha: 1)
+    public static let accent = UIColor(red: 0.016, green: 0.290, blue: 1.000, alpha: 1)
     public static let darkBackground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let lightBackground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let primary = UIColor(red: 0.988, green: 0.812, blue: 0.173, alpha: 1)

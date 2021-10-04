@@ -14,6 +14,7 @@
   "ColorPrimary": "#fccf2c",
   "ColorAccent": "#044aff",
   "ColorWhite": "#ffffff",
+  "ColorWarning": "#ff0000",
   "ColorLightBackground": "#ffffff",
   "ColorDarkBackground": "#000000",
   "GridMultiple0": {"pattern":"columns","sectionSize":1,"gutterSize":20,"alignment":"max","count":7,"offset":3},

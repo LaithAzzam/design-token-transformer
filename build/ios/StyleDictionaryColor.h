@@ -4,18 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 04 Oct 2021 07:55:23 GMT
+// Generated on Mon, 04 Oct 2021 08:55:02 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorNotExported,
-ColorColorsMultipleFills0,
-ColorColorsMultipleFills1,
-ColorColorsSingleBlue,
-ColorColorsSpecialCharacters,
-ColorColorsSpecialCharactersNderung,
+ColorPrimary,
 ColorLightBackground,
 ColorDarkBackground
 };

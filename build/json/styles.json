@@ -4,6 +4,7 @@
   "RadiiMixed": {"smoothing":0,"topLeft":5.5,"topRight":10,"bottomLeft":20,"bottomRight":15},
   "ColorPrimary": "#fccf2c",
   "ColorWhite": "#ffffff",
+  "ColorBlue": "#044aff",
   "ColorLightBackground": "#ffffff",
   "ColorDarkBackground": "#000000",
   "GridMultiple0": {"pattern":"columns","sectionSize":1,"gutterSize":20,"alignment":"max","count":7,"offset":3},

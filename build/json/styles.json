@@ -17,6 +17,7 @@
   "ColorPrimaryShade1": "#004376",
   "ColorPrimaryShade2": "#e7f3fe",
   "ColorPrimaryShade3": "#6390bc",
+  "ColorPrimaryBrand": "#0067b1",
   "ColorSecondarySecondary1": "#8cd6d3",
   "ColorSecondarySecondary2": "#eed1ca",
   "GridMobile4Col375": {"pattern":"columns","gutterSize":24,"alignment":"stretch","count":4,"offset":24},

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 07 Oct 2021 21:21:31 GMT
+// Generated on Thu, 07 Oct 2021 22:07:53 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -28,6 +28,7 @@ ColorPrimaryInteractivity,
 ColorPrimaryShade1,
 ColorPrimaryShade2,
 ColorPrimaryShade3,
+ColorPrimaryBrand,
 ColorSecondarySecondary1,
 ColorSecondarySecondary2
 };

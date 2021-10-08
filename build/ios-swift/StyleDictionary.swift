@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 07 Oct 2021 22:07:53 GMT
+// Generated on Fri, 08 Oct 2021 15:20:03 GMT
 
 
 import UIKit
@@ -12,16 +12,16 @@ import UIKit
 public class StyleDictionary {
     public static let colorAccentAccent = UIColor(red: 0.000, green: 0.576, blue: 0.839, alpha: 1)
     public static let colorGrayscaleBlack = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorGrayscaleGray100 = UIColor(red: 0.110, green: 0.110, blue: 0.118, alpha: 1)
+    public static let colorGrayscaleGray200 = UIColor(red: 0.157, green: 0.157, blue: 0.176, alpha: 1)
+    public static let colorGrayscaleGray300 = UIColor(red: 0.204, green: 0.204, blue: 0.235, alpha: 1)
     public static let colorGrayscaleGray400 = UIColor(red: 0.286, green: 0.318, blue: 0.380, alpha: 1)
     public static let colorGrayscaleGray500 = UIColor(red: 0.463, green: 0.490, blue: 0.537, alpha: 1)
     public static let colorGrayscaleGray600 = UIColor(red: 0.886, green: 0.886, blue: 0.886, alpha: 1)
     public static let colorGrayscaleGray700 = UIColor(red: 0.957, green: 0.957, blue: 0.961, alpha: 1)
     public static let colorGrayscaleGray800 = UIColor(red: 0.980, green: 0.984, blue: 0.984, alpha: 1)
-    public static let colorGrayscaleGrey100 = UIColor(red: 0.110, green: 0.110, blue: 0.118, alpha: 1)
-    public static let colorGrayscaleGrey200 = UIColor(red: 0.157, green: 0.157, blue: 0.176, alpha: 1)
-    public static let colorGrayscaleGrey300 = UIColor(red: 0.204, green: 0.204, blue: 0.235, alpha: 1)
     public static let colorGrayscaleWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let colorPrimaryBrand = UIColor(red: 0.000, green: 0.404, blue: 0.694, alpha: 1)
+    public static let colorPrimaryBrand = UIColor(red: 1.000, green: 0.012, blue: 0.604, alpha: 1)
     public static let colorPrimaryInteractivity = UIColor(red: 0.000, green: 0.314, blue: 0.675, alpha: 1)
     public static let colorPrimaryShade1 = UIColor(red: 0.000, green: 0.263, blue: 0.463, alpha: 1)
     public static let colorPrimaryShade2 = UIColor(red: 0.906, green: 0.953, blue: 0.996, alpha: 1)

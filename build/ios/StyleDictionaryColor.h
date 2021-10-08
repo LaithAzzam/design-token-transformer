@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 07 Oct 2021 22:07:53 GMT
+// Generated on Fri, 08 Oct 2021 15:20:03 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -17,9 +17,9 @@ ColorGrayscaleGray600,
 ColorGrayscaleGray700,
 ColorGrayscaleGray800,
 ColorGrayscaleWhite,
-ColorGrayscaleGrey100,
-ColorGrayscaleGrey200,
-ColorGrayscaleGrey300,
+ColorGrayscaleGray100,
+ColorGrayscaleGray200,
+ColorGrayscaleGray300,
 ColorSupportSuccess,
 ColorSupportError,
 ColorSupportAlert,

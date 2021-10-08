@@ -6,9 +6,9 @@
   --color-grayscale-gray-700: #f4f4f5;
   --color-grayscale-gray-800: #fafbfb;
   --color-grayscale-white: #ffffff;
-  --color-grayscale-grey-100: #1c1c1e;
-  --color-grayscale-grey-200: #28282d;
-  --color-grayscale-grey-300: #34343c;
+  --color-grayscale-gray-100: #1c1c1e;
+  --color-grayscale-gray-200: #28282d;
+  --color-grayscale-gray-300: #34343c;
   --color-support-success: #008556;
   --color-support-error: #f3585c;
   --color-support-alert: #f6c95e;
@@ -17,7 +17,7 @@
   --color-primary-shade1: #004376;
   --color-primary-shade2: #e7f3fe;
   --color-primary-shade3: #6390bc;
-  --color-primary-brand: #0067b1;
+  --color-primary-brand: #ff039a;
   --color-secondary-secondary1: #8cd6d3;
   --color-secondary-secondary2: #eed1ca;
   --grid-mobile-4-col-375: [object Object];

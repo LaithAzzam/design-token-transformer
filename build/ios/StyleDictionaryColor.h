@@ -4,33 +4,28 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 11 Oct 2021 17:20:10 GMT
+// Generated on Thu, 14 Oct 2021 04:16:00 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorGrayscaleGray400,
 ColorGrayscaleBlack,
+ColorGrayscaleGray400,
 ColorGrayscaleGray500,
 ColorGrayscaleGray600,
-ColorGrayscaleGray700,
-ColorGrayscaleGray800,
 ColorGrayscaleWhite,
-ColorGrayscaleGray100,
-ColorGrayscaleGray200,
-ColorGrayscaleGray300,
-ColorSupportSuccess,
-ColorSupportError,
-ColorSupportAlert,
-ColorAccentAccent,
-ColorPrimaryInteractivity,
+ColorPrimaryBrand,
 ColorPrimaryShade1,
 ColorPrimaryShade2,
 ColorPrimaryShade3,
-ColorPrimaryBrand,
 ColorSecondarySecondary1,
-ColorSecondarySecondary2
+ColorSecondarySecondary2,
+ColorAccentAccent,
+ColorSupportWarning,
+ColorSupportSuccess,
+ColorSupportAlert,
+ColorSupportInfo
 };
 
 @interface StyleDictionaryColor : NSObject

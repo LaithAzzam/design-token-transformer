@@ -2,13 +2,18 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 14 Oct 2021 04:58:51 GMT
+  Generated on Thu, 14 Oct 2021 05:48:33 GMT
 -->
 <resources>
   <color name="color_grayscale_black">#ff000000</color>
+  <color name="color_grayscale_gray_100">#ff202224</color>
+  <color name="color_grayscale_gray_200">#ff303339</color>
+  <color name="color_grayscale_gray_300">#ff3d4451</color>
   <color name="color_grayscale_gray_400">#ff495161</color>
   <color name="color_grayscale_gray_500">#ff767d89</color>
   <color name="color_grayscale_gray_600">#ffe2e2e2</color>
+  <color name="color_grayscale_gray_700">#ffefeeee</color>
+  <color name="color_grayscale_gray_800">#fff5f2f2</color>
   <color name="color_grayscale_white">#ffffffff</color>
   <color name="color_primary_brand">#ffb1009f</color>
   <color name="color_primary_shade1">#ff004376</color>

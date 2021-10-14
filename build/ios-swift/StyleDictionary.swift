@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 14 Oct 2021 04:58:51 GMT
+// Generated on Thu, 14 Oct 2021 05:48:33 GMT
 
 
 import UIKit
@@ -12,9 +12,14 @@ import UIKit
 public class StyleDictionary {
     public static let colorAccentAccent = UIColor(red: 0.000, green: 0.576, blue: 0.839, alpha: 1)
     public static let colorGrayscaleBlack = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorGrayscaleGray100 = UIColor(red: 0.125, green: 0.133, blue: 0.141, alpha: 1)
+    public static let colorGrayscaleGray200 = UIColor(red: 0.188, green: 0.200, blue: 0.224, alpha: 1)
+    public static let colorGrayscaleGray300 = UIColor(red: 0.239, green: 0.267, blue: 0.318, alpha: 1)
     public static let colorGrayscaleGray400 = UIColor(red: 0.286, green: 0.318, blue: 0.380, alpha: 1)
     public static let colorGrayscaleGray500 = UIColor(red: 0.463, green: 0.490, blue: 0.537, alpha: 1)
     public static let colorGrayscaleGray600 = UIColor(red: 0.886, green: 0.886, blue: 0.886, alpha: 1)
+    public static let colorGrayscaleGray700 = UIColor(red: 0.937, green: 0.933, blue: 0.933, alpha: 1)
+    public static let colorGrayscaleGray800 = UIColor(red: 0.961, green: 0.949, blue: 0.949, alpha: 1)
     public static let colorGrayscaleWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorPrimaryBrand = UIColor(red: 0.694, green: 0.000, blue: 0.624, alpha: 1)
     public static let colorPrimaryShade1 = UIColor(red: 0.000, green: 0.263, blue: 0.463, alpha: 1)

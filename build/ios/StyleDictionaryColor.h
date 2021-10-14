@@ -4,16 +4,21 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 14 Oct 2021 04:58:51 GMT
+// Generated on Thu, 14 Oct 2021 05:48:33 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
 ColorGrayscaleBlack,
+ColorGrayscaleGray100,
+ColorGrayscaleGray200,
+ColorGrayscaleGray300,
 ColorGrayscaleGray400,
 ColorGrayscaleGray500,
 ColorGrayscaleGray600,
+ColorGrayscaleGray700,
+ColorGrayscaleGray800,
 ColorGrayscaleWhite,
 ColorPrimaryBrand,
 ColorPrimaryShade1,

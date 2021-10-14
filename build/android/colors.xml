@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Thu, 14 Oct 2021 04:34:09 GMT
+-->
+<resources>
+  <color name="color_grayscale_black">#ff000000</color>
+  <color name="color_grayscale_gray_400">#ff495161</color>
+  <color name="color_grayscale_gray_500">#ff767d89</color>
+  <color name="color_grayscale_gray_600">#ffe2e2e2</color>
+  <color name="color_grayscale_white">#ffffffff</color>
+  <color name="color_primary_brand">#ff0067b1</color>
+  <color name="color_primary_shade1">#ff004376</color>
+  <color name="color_primary_shade2">#ffe7f3fe</color>
+  <color name="color_primary_shade3">#ff6390bc</color>
+  <color name="color_secondary_secondary1">#ff8cd6d3</color>
+  <color name="color_secondary_secondary2">#ffeed1ca</color>
+  <color name="color_accent_accent">#ff0093d6</color>
+  <color name="color_support_warning">#fff3585c</color>
+  <color name="color_support_success">#ff008556</color>
+  <color name="color_support_alert">#fff6c95e</color>
+  <color name="color_support_info">#ff0066ff</color>
+  
+</resources>

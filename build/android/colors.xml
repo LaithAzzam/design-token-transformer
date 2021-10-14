@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 14 Oct 2021 21:29:21 GMT
+  Generated on Thu, 14 Oct 2021 21:44:32 GMT
 -->
 <resources>
   <color name="color_grayscale_black">#ff000000</color>
@@ -17,9 +17,9 @@
   <color name="color_grayscale_white">#ffffffff</color>
   <color name="color_primary_brand">#ff0067b1</color>
   <color name="color_primary_shade1">#ff0050ac</color>
-  <color name="color_primary_shade2">#fffde7ef</color>
+  <color name="color_primary_shade2">#ffe7f3fe</color>
   <color name="color_primary_shade3">#ff6390bc</color>
-  <color name="color_primary_interactivity">#ff9a1044</color>
+  <color name="color_primary_interactivity">#ff0050ac</color>
   <color name="color_secondary_secondary1">#ff8cd6d3</color>
   <color name="color_secondary_secondary2">#ffeed1ca</color>
   <color name="color_accent_accent">#ff0093d6</color>

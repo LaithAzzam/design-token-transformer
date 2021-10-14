@@ -25,6 +25,7 @@
   --color-primary-shade1: #004376;
   --color-primary-shade2: #f9e7fe;
   --color-primary-shade3: #6390bc;
+  --color-primary-interactivity: #004376;
   --color-secondary-secondary1: #8cd6d3;
   --color-secondary-secondary2: #eed1ca;
   --color-accent-accent: #0093d6;
@@ -32,6 +33,7 @@
   --color-support-success: #008556;
   --color-support-alert: #f6c95e;
   --color-support-info: #0066ff;
+  --color-support-error: #f3585c;
   --grid-multiple-0: [object Object];
   --grid-multiple-1: [object Object];
   --grid-multiple-2: [object Object];

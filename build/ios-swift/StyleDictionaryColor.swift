@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 14 Oct 2021 05:48:33 GMT
+// Generated on Thu, 14 Oct 2021 05:52:26 GMT
 
 
 import UIKit
@@ -22,12 +22,14 @@ public enum StyleDictionaryColor {
     public static let grayscaleGray800 = UIColor(red: 0.961, green: 0.949, blue: 0.949, alpha: 1)
     public static let grayscaleWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let primaryBrand = UIColor(red: 0.694, green: 0.000, blue: 0.624, alpha: 1)
+    public static let primaryInteractivity = UIColor(red: 0.000, green: 0.263, blue: 0.463, alpha: 1)
     public static let primaryShade1 = UIColor(red: 0.000, green: 0.263, blue: 0.463, alpha: 1)
     public static let primaryShade2 = UIColor(red: 0.976, green: 0.906, blue: 0.996, alpha: 1)
     public static let primaryShade3 = UIColor(red: 0.388, green: 0.565, blue: 0.737, alpha: 1)
     public static let secondarySecondary1 = UIColor(red: 0.549, green: 0.839, blue: 0.827, alpha: 1)
     public static let secondarySecondary2 = UIColor(red: 0.933, green: 0.820, blue: 0.792, alpha: 1)
     public static let supportAlert = UIColor(red: 0.965, green: 0.788, blue: 0.369, alpha: 1)
+    public static let supportError = UIColor(red: 0.953, green: 0.345, blue: 0.361, alpha: 1)
     public static let supportInfo = UIColor(red: 0.000, green: 0.400, blue: 1.000, alpha: 1)
     public static let supportSuccess = UIColor(red: 0.000, green: 0.522, blue: 0.337, alpha: 1)
     public static let supportWarning = UIColor(red: 0.953, green: 0.345, blue: 0.361, alpha: 1)

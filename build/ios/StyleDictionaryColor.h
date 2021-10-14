@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 14 Oct 2021 05:48:33 GMT
+// Generated on Thu, 14 Oct 2021 05:52:26 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -24,13 +24,15 @@ ColorPrimaryBrand,
 ColorPrimaryShade1,
 ColorPrimaryShade2,
 ColorPrimaryShade3,
+ColorPrimaryInteractivity,
 ColorSecondarySecondary1,
 ColorSecondarySecondary2,
 ColorAccentAccent,
 ColorSupportWarning,
 ColorSupportSuccess,
 ColorSupportAlert,
-ColorSupportInfo
+ColorSupportInfo,
+ColorSupportError
 };
 
 @interface StyleDictionaryColor : NSObject

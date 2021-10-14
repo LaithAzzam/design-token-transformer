@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 14 Oct 2021 05:48:33 GMT
+  Generated on Thu, 14 Oct 2021 05:52:26 GMT
 -->
 <resources>
   <color name="color_grayscale_black">#ff000000</color>
@@ -19,6 +19,7 @@
   <color name="color_primary_shade1">#ff004376</color>
   <color name="color_primary_shade2">#fff9e7fe</color>
   <color name="color_primary_shade3">#ff6390bc</color>
+  <color name="color_primary_interactivity">#ff004376</color>
   <color name="color_secondary_secondary1">#ff8cd6d3</color>
   <color name="color_secondary_secondary2">#ffeed1ca</color>
   <color name="color_accent_accent">#ff0093d6</color>
@@ -26,5 +27,6 @@
   <color name="color_support_success">#ff008556</color>
   <color name="color_support_alert">#fff6c95e</color>
   <color name="color_support_info">#ff0066ff</color>
+  <color name="color_support_error">#fff3585c</color>
   
 </resources>

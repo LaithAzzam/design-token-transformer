@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 14 Oct 2021 21:09:12 GMT
+// Generated on Thu, 14 Oct 2021 21:10:25 GMT
 
 
 import UIKit
@@ -25,7 +25,7 @@ public enum StyleDictionaryColor {
     public static let primaryInteractivity = UIColor(red: 0.000, green: 0.314, blue: 0.675, alpha: 1)
     public static let primaryShade1 = UIColor(red: 0.000, green: 0.314, blue: 0.675, alpha: 1)
     public static let primaryShade2 = UIColor(red: 0.906, green: 0.953, blue: 0.996, alpha: 1)
-    public static let primaryShade3 = UIColor(red: 0.906, green: 0.953, blue: 0.996, alpha: 1)
+    public static let primaryShade3 = UIColor(red: 0.388, green: 0.565, blue: 0.737, alpha: 1)
     public static let secondarySecondary1 = UIColor(red: 0.549, green: 0.839, blue: 0.827, alpha: 1)
     public static let secondarySecondary2 = UIColor(red: 0.933, green: 0.820, blue: 0.792, alpha: 1)
     public static let supportAlert = UIColor(red: 0.965, green: 0.788, blue: 0.369, alpha: 1)

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 16 Mar 2022 22:41:40 GMT
+// Generated on Wed, 16 Mar 2022 22:45:22 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -16,6 +16,9 @@ ColorSystemSuccess,
 ColorSystemAlert,
 ColorSystemError,
 ColorBrandPrimary,
+ColorBrandPrimaryshade1,
+ColorBrandPrimaryshade2,
+ColorBrandPrimaryshade3,
 ColorBrandSecondary,
 ColorBrandTertiary
 };

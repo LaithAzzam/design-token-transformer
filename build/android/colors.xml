@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 16 Mar 2022 22:41:40 GMT
+  Generated on Wed, 16 Mar 2022 22:45:22 GMT
 -->
 <resources>
   <color name="color_system_black">#ff000000</color>
@@ -11,6 +11,9 @@
   <color name="color_system_alert">#ffe4a832</color>
   <color name="color_system_error">#ffe43232</color>
   <color name="color_brand_primary">#ff0b1e37</color>
+  <color name="color_brand_primaryshade1">#ff39485d</color>
+  <color name="color_brand_primaryshade2">#ff636f7f</color>
+  <color name="color_brand_primaryshade3">#ff87909d</color>
   <color name="color_brand_secondary">#fff1ede1</color>
   <color name="color_brand_tertiary">#ff313a2e</color>
   

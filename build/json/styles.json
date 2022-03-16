@@ -5,6 +5,9 @@
   "ColorSystemAlert": "#e4a832",
   "ColorSystemError": "#e43232",
   "ColorBrandPrimary": "#0b1e37",
+  "ColorBrandPrimaryshade1": "#39485d",
+  "ColorBrandPrimaryshade2": "#636f7f",
+  "ColorBrandPrimaryshade3": "#87909d",
   "ColorBrandSecondary": "#f1ede1",
   "ColorBrandTertiary": "#313a2e"
 }

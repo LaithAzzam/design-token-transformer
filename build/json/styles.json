@@ -1,19 +1,10 @@
 {
-  "ColorBlack": "#000000",
-  "ColorWhite": "#ffffff",
-  "ColorBrand": "#0b1e37",
-  "ColorBrandshade1": "#39485d",
-  "ColorBrandshade2": "#636f7f",
-  "ColorBrandshade3": "#87909d",
-  "ColorSecondary": "#f1ede1",
-  "ColorSecondaryshade1": "#f3f1e7",
-  "ColorSecondaryshade2": "#f6f4ec",
-  "ColorSecondaryshade3": "#f8f6f0",
-  "ColorTertiaryshade1": "#575e55",
-  "ColorTertiaryshade2": "#7b8179",
-  "ColorTertiaryshade3": "#999e98",
-  "ColorSuccess": "#339b0e",
-  "ColorAlert": "#e4a832",
-  "ColorError": "#e43232",
-  "ColorTertiary": "#313a2e"
+  "ColorSystemBlack": "#000000",
+  "ColorSystemWhite": "#ffffff",
+  "ColorSystemSuccess": "#339b0e",
+  "ColorSystemAlert": "#e4a832",
+  "ColorSystemError": "#e43232",
+  "ColorBrandPrimary": "#0b1e37",
+  "ColorBrandSecondary": "#f1ede1",
+  "ColorBrandTertiary": "#313a2e"
 }

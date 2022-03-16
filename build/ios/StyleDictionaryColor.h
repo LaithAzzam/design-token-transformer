@@ -4,29 +4,20 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 16 Mar 2022 22:15:37 GMT
+// Generated on Wed, 16 Mar 2022 22:41:40 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorBlack,
-ColorWhite,
-ColorBrand,
-ColorBrandshade1,
-ColorBrandshade2,
-ColorBrandshade3,
-ColorSecondary,
-ColorSecondaryshade1,
-ColorSecondaryshade2,
-ColorSecondaryshade3,
-ColorTertiaryshade1,
-ColorTertiaryshade2,
-ColorTertiaryshade3,
-ColorSuccess,
-ColorAlert,
-ColorError,
-ColorTertiary
+ColorSystemBlack,
+ColorSystemWhite,
+ColorSystemSuccess,
+ColorSystemAlert,
+ColorSystemError,
+ColorBrandPrimary,
+ColorBrandSecondary,
+ColorBrandTertiary
 };
 
 @interface StyleDictionaryColor : NSObject

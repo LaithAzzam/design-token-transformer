@@ -2,25 +2,16 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 16 Mar 2022 22:15:37 GMT
+  Generated on Wed, 16 Mar 2022 22:41:40 GMT
 -->
 <resources>
-  <color name="color_black">#ff000000</color>
-  <color name="color_white">#ffffffff</color>
-  <color name="color_brand">#ff0b1e37</color>
-  <color name="color_brandshade1">#ff39485d</color>
-  <color name="color_brandshade2">#ff636f7f</color>
-  <color name="color_brandshade3">#ff87909d</color>
-  <color name="color_secondary">#fff1ede1</color>
-  <color name="color_secondaryshade1">#fff3f1e7</color>
-  <color name="color_secondaryshade2">#fff6f4ec</color>
-  <color name="color_secondaryshade3">#fff8f6f0</color>
-  <color name="color_tertiaryshade1">#ff575e55</color>
-  <color name="color_tertiaryshade2">#ff7b8179</color>
-  <color name="color_tertiaryshade3">#ff999e98</color>
-  <color name="color_success">#ff339b0e</color>
-  <color name="color_alert">#ffe4a832</color>
-  <color name="color_error">#ffe43232</color>
-  <color name="color_tertiary">#ff313a2e</color>
+  <color name="color_system_black">#ff000000</color>
+  <color name="color_system_white">#ffffffff</color>
+  <color name="color_system_success">#ff339b0e</color>
+  <color name="color_system_alert">#ffe4a832</color>
+  <color name="color_system_error">#ffe43232</color>
+  <color name="color_brand_primary">#ff0b1e37</color>
+  <color name="color_brand_secondary">#fff1ede1</color>
+  <color name="color_brand_tertiary">#ff313a2e</color>
   
 </resources>

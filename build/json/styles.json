@@ -1,6 +1,15 @@
 {
   "ColorBlack": "#000000",
   "ColorWhite": "#ffffff",
-  "ColorPrimary": "#0b1e37",
-  "ColorSecondary": "#f1ede1"
+  "ColorBrand": "#0b1e37",
+  "ColorBrandshade1": "#39485d",
+  "ColorBrandshade2": "#636f7f",
+  "ColorBrandshade3": "#87909d",
+  "ColorSecondary": "#f1ede1",
+  "ColorSecondaryshade1": "#f3f1e7",
+  "ColorSecondaryshade2": "#f6f4ec",
+  "ColorSecondaryshade3": "#f8f6f0",
+  "ColorSuccess": "#339b0e",
+  "ColorAlert": "#e4a832",
+  "ColorError": "#e43232"
 }

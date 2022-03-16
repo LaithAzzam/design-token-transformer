@@ -1,6 +1,15 @@
 :root {
   --color-black: #000000;
   --color-white: #ffffff;
-  --color-primary: #0b1e37;
+  --color-brand: #0b1e37;
+  --color-brandshade1: #39485d;
+  --color-brandshade2: #636f7f;
+  --color-brandshade3: #87909d;
   --color-secondary: #f1ede1;
+  --color-secondaryshade1: #f3f1e7;
+  --color-secondaryshade2: #f6f4ec;
+  --color-secondaryshade3: #f8f6f0;
+  --color-success: #339b0e;
+  --color-alert: #e4a832;
+  --color-error: #e43232;
 }

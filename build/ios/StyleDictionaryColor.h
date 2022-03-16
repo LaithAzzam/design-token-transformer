@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 16 Mar 2022 22:45:22 GMT
+// Generated on Wed, 16 Mar 2022 23:00:35 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -16,11 +16,17 @@ ColorSystemSuccess,
 ColorSystemAlert,
 ColorSystemError,
 ColorBrandPrimary,
-ColorBrandPrimaryshade1,
-ColorBrandPrimaryshade2,
-ColorBrandPrimaryshade3,
+ColorBrandPrimary100,
+ColorBrandPrimary200,
+ColorBrandPrimary300,
 ColorBrandSecondary,
-ColorBrandTertiary
+ColorBrandSecondary100,
+ColorBrandSecondary200,
+ColorBrandSecondary300,
+ColorBrandTertiary,
+ColorBrandTertiary100,
+ColorBrandTertiary200,
+ColorBrandTertiary300
 };
 
 @interface StyleDictionaryColor : NSObject

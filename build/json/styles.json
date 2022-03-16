@@ -5,9 +5,15 @@
   "ColorSystemAlert": "#e4a832",
   "ColorSystemError": "#e43232",
   "ColorBrandPrimary": "#0b1e37",
-  "ColorBrandPrimaryshade1": "#39485d",
-  "ColorBrandPrimaryshade2": "#636f7f",
-  "ColorBrandPrimaryshade3": "#87909d",
+  "ColorBrandPrimary100": "#39485d",
+  "ColorBrandPrimary200": "#636f7f",
+  "ColorBrandPrimary300": "#87909d",
   "ColorBrandSecondary": "#f1ede1",
-  "ColorBrandTertiary": "#313a2e"
+  "ColorBrandSecondary100": "#f3f1e7",
+  "ColorBrandSecondary200": "#f6f4ec",
+  "ColorBrandSecondary300": "#f8f6f0",
+  "ColorBrandTertiary": "#313a2e",
+  "ColorBrandTertiary100": "#575e55",
+  "ColorBrandTertiary200": "#7b8179",
+  "ColorBrandTertiary300": "#999e98"
 }

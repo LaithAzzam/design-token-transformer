@@ -2,31 +2,12 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 14 Oct 2021 21:44:32 GMT
+  Generated on Wed, 16 Mar 2022 19:52:27 GMT
 -->
 <resources>
-  <color name="color_grayscale_black">#ff000000</color>
-  <color name="color_grayscale_gray_100">#ff202224</color>
-  <color name="color_grayscale_gray_200">#ff303339</color>
-  <color name="color_grayscale_gray_300">#ff3d4451</color>
-  <color name="color_grayscale_gray_400">#ff495161</color>
-  <color name="color_grayscale_gray_500">#ff767d89</color>
-  <color name="color_grayscale_gray_600">#ffe2e2e2</color>
-  <color name="color_grayscale_gray_700">#ffefeeee</color>
-  <color name="color_grayscale_gray_800">#fff5f2f2</color>
-  <color name="color_grayscale_white">#ffffffff</color>
-  <color name="color_primary_brand">#ff0067b1</color>
-  <color name="color_primary_shade1">#ff0050ac</color>
-  <color name="color_primary_shade2">#ffe7f3fe</color>
-  <color name="color_primary_shade3">#ff6390bc</color>
-  <color name="color_primary_interactivity">#ff0050ac</color>
-  <color name="color_secondary_secondary1">#ff8cd6d3</color>
-  <color name="color_secondary_secondary2">#ffeed1ca</color>
-  <color name="color_accent_accent">#ff0093d6</color>
-  <color name="color_support_warning">#fff3585c</color>
-  <color name="color_support_success">#ff008556</color>
-  <color name="color_support_alert">#fff6c95e</color>
-  <color name="color_support_info">#ff0066ff</color>
-  <color name="color_support_error">#fff3585c</color>
+  <color name="color_black">#ff000000</color>
+  <color name="color_white">#ffffffff</color>
+  <color name="color_primary">#ff0b1e37</color>
+  <color name="color_secondary">#fff1ede1</color>
   
 </resources>

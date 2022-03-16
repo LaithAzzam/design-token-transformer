@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 16 Mar 2022 21:25:45 GMT
+// Generated on Wed, 16 Mar 2022 22:15:37 GMT
 
 
 import UIKit
@@ -22,5 +22,9 @@ public class StyleDictionary {
     public static let colorSecondaryshade2 = UIColor(red: 0.965, green: 0.957, blue: 0.925, alpha: 1)
     public static let colorSecondaryshade3 = UIColor(red: 0.973, green: 0.965, blue: 0.941, alpha: 1)
     public static let colorSuccess = UIColor(red: 0.200, green: 0.608, blue: 0.055, alpha: 1)
+    public static let colorTertiary = UIColor(red: 0.192, green: 0.227, blue: 0.180, alpha: 1)
+    public static let colorTertiaryshade1 = UIColor(red: 0.341, green: 0.369, blue: 0.333, alpha: 1)
+    public static let colorTertiaryshade2 = UIColor(red: 0.482, green: 0.506, blue: 0.475, alpha: 1)
+    public static let colorTertiaryshade3 = UIColor(red: 0.600, green: 0.620, blue: 0.596, alpha: 1)
     public static let colorWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
 }

@@ -9,7 +9,11 @@
   --color-secondaryshade1: #f3f1e7;
   --color-secondaryshade2: #f6f4ec;
   --color-secondaryshade3: #f8f6f0;
+  --color-tertiaryshade1: #575e55;
+  --color-tertiaryshade2: #7b8179;
+  --color-tertiaryshade3: #999e98;
   --color-success: #339b0e;
   --color-alert: #e4a832;
   --color-error: #e43232;
+  --color-tertiary: #313a2e;
 }

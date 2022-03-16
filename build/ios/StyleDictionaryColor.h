@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 16 Mar 2022 21:25:45 GMT
+// Generated on Wed, 16 Mar 2022 22:15:37 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -20,9 +20,13 @@ ColorSecondary,
 ColorSecondaryshade1,
 ColorSecondaryshade2,
 ColorSecondaryshade3,
+ColorTertiaryshade1,
+ColorTertiaryshade2,
+ColorTertiaryshade3,
 ColorSuccess,
 ColorAlert,
-ColorError
+ColorError,
+ColorTertiary
 };
 
 @interface StyleDictionaryColor : NSObject
